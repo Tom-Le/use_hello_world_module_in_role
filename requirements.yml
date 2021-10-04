@@ -1,0 +1,4 @@
+---
+collections:
+  - name: git+https://github.com/Tom-Le/hello_world_module_in_role
+    version: 0.0.2

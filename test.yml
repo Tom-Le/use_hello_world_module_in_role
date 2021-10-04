@@ -1,0 +1,5 @@
+---
+- name: Use hello world role
+  hosts: localhost
+  roles:
+    - name: leson_dev.hello_world_module_in_role.helloworld
